@@ -1,5 +1,0 @@
-<launch>
- 	<node name ="first_node1" pkg = "turtlebot3_gazebo" type = "cmd_node" />
-	<node name ="second_node2" pkg = "turtlebot3_gazebo" type = "navs_node" output="screen"/>
-
-</launch>
